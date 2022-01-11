@@ -1,0 +1,31 @@
+.nav-bar {
+    height: 80px;
+    background-color: black !important;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    text-align: right;
+}
+
+.nav-link,
+.nav-item {
+    font-size: 30px;
+    margin-left: 8%;
+    margin-right: 8%;
+    cursor: pointer;
+}
+
+#navbarScrollingDropdown {
+    margin-left: 8% !important;
+    margin-right: 8% !important;
+}
+
+.container {}
+
+.dropdown-item {
+    width: 262px;
+    height: 58px;
+    font-size: 25px;
+}

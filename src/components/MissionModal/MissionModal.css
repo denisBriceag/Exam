@@ -1,0 +1,11 @@
+.btn-close {
+    display: none;
+}
+
+.Modal.Body>h4 {
+    font-weight: bold;
+}
+
+#contained-modal-title-vcenter {
+    text-align: center;
+}

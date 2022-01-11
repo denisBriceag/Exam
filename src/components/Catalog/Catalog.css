@@ -1,0 +1,28 @@
+.maincontainer {
+    width: 85%;
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid transparent;
+    margin-top: 5%;
+    margin-left: 7%;
+    font-family: 'Spartan', sans-serif !important;
+}
+
+.drinktype {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#image {
+    width: 300px;
+    height: 300px;
+    cursor: pointer;
+    transition: transform .2s;
+}
+
+
+#image:hover {
+    transform: scale(1.1);
+}

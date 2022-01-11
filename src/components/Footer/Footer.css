@@ -1,0 +1,23 @@
+.footer {
+    background-color: black;
+    color: #ffffff;
+    height: auto;
+    text-align: center;
+}
+
+
+
+.home-css:hover,
+.link-css:hover {
+    color: #ffffffc4;
+}
+
+#par {
+
+    font-size: 30px;
+}
+
+#nav {
+    display: flex;
+    flex-direction: row;
+}
